@@ -1,0 +1,10 @@
+# node_modules không đưa lên git
+node_modules/
+
+# build folder
+.next/
+dist/
+
+# hệ thống
+.DS_Store
+.env
